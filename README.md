@@ -1,0 +1,1 @@
+1-Demensional Denoising Diffusion Probabilistic Model
